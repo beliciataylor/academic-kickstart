@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Student
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -23,11 +23,11 @@ bio: ""
 interests:
 - Economics
 - Machine Learning
-- Reading
+- English Literature
 
 education:
   courses:
-  - course: Bachelor of Arts
+  - course: Bachelor of Arts in Economics and Mathematics
     institution: Emory University
     year: 2021
 
@@ -70,4 +70,4 @@ user_groups:
 - []
 ---
 
-Student majoring in Economics and Mathematics, minoring in English.
+I'm a student at Emory University majoring in Economics and Mathematics, minoring in English. I'm currently a research assistant working on a project using machine learning techniques and natural language processing in Python. 

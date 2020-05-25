@@ -68,8 +68,8 @@ date_format = "Jan 2006"
   company = "Emory Scholarly Inquiry and Research Experience (SIRE) Program"
   company_url = ""
   location = "Atlanta, GA"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2018-01-01"
+  date_end = "2018-12-31"
   description = """
   Responsibilities included:
 

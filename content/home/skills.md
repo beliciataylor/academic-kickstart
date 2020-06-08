@@ -18,55 +18,55 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = ""
+  description = "Advanced"
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = ""
+  description = "Intermediate"
 
 [[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = ""
-
-[[feature]]
-  icon = "git"
-  icon_pack = "fab"
-  name = "Git"
-  description = ""
+  description = "Beginner"
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = ""
-
-[[feature]]
-  icon = "terminal"
-  icon_pack = "fas"
-  name = "Shell"
-  description = ""
+  description = "Beginner"
 
 [[feature]]
   icon = "cloud"
   icon_pack = "fas"
   name = "Cloud Computing"
-  description = ""
+  description = "Azure, AWS"
+
+[[feature]]
+  icon = "terminal"
+  icon_pack = "fas"
+  name = "Shell"
+  description = "Intermediate"
 
 [[feature]]
   icon = "overleaf"
   icon_pack = "ai"
   name = "LaTeX"
-  description = ""
+  description = "Intermediate"
+
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+  description = "Intermediate"
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = ""  
+  description = "Intermediate"  
   
 
 # Uncomment to use emoji icons.

@@ -36,6 +36,22 @@ date_format = "Jan 2006"
   """
 
 [[item]]
+  organization = "LinkedIn Learning"
+  organization_url = "https://www.linkedin.com/learning"
+  title = "Azure Databricks & Related Courses"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-05-06"
+  date_end = ""
+  description = """
+  Courses
+  * Learning Hadoop [(See Certificate)](files/LearningHadoop.pdf)
+  * Cloud Hadoop: Scaling Apache Spark [(See Certificate)](files/CloudHadoop.pdf)
+  * Learning Azure Storage for Developers [(See Certificate)](files/LearningAzureStorage.pdf)
+  * Azure Spark Databricks Essential Training [(See Certificate)](files/AzureSparkDatabricksEssentialTraining.pdf)
+  """
+
+[[item]]
   organization = "DataCamp"
   organization_url = "https://datacamp.com/"
   title = "Shell Courses"
@@ -48,16 +64,6 @@ date_format = "Jan 2006"
   * Introduction to Shell [(See Certificate)](files/shell_intro.pdf)
   * Data Processing in Shell [(See Certificate)](files/shell_data_process.pdf)
   """
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org/"
-  title = "Introduction to Mathematical Learning"
-  url = "https://www.coursera.org/learn/mathematical-thinking"
-  certificate_url = ""
-  date_start = "2020-05-06"
-  date_end = ""
-  description = ""
 
 [[item]]
   organization = "Coursera"

@@ -21,19 +21,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org/"
-  title = "Applied Data Science with Python"
-  url = "https://www.coursera.org/specializations/data-science-python"
-  certificate_url = ""
+  title = "Introduction to Data Science in Python"
+  url = "https://www.coursera.org/learn/python-data-analysis"
+  certificate_url = "files/Intro_Data_Science_Python.pdf"
   date_start = "2020-05-31"
-  date_end = ""
-  description = """
-  Courses in Specialization
-  * Introduction to Data Science in Python
-  * Applied Plotting, Charting, and Data Representation in Python
-  * Applied Machine Learning in Python
-  * Applied Text Mining in Python
-  * Applied Social Network Analysis in Python
-  """
+  date_end = "2020-07-01"
+  description = ""
 
 [[item]]
   organization = "LinkedIn Learning"
@@ -49,20 +42,6 @@ date_format = "Jan 2006"
   * Cloud Hadoop: Scaling Apache Spark [(See Certificate)](files/CloudHadoop.pdf)
   * Learning Azure Storage for Developers [(See Certificate)](files/LearningAzureStorage.pdf)
   * Azure Spark Databricks Essential Training [(See Certificate)](files/AzureSparkDatabricksEssentialTraining.pdf)
-  """
-
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://datacamp.com/"
-  title = "Shell Courses"
-  url = "https://www.datacamp.com/courses/tech:shell"
-  certificate_url = ""
-  date_start = "2020-05-24"
-  date_end = "2020-06-02"
-  description = """
-  Courses in Shell
-  * Introduction to Shell [(See Certificate)](files/shell_intro.pdf)
-  * Data Processing in Shell [(See Certificate)](files/shell_data_process.pdf)
   """
 
 [[item]]

@@ -9,9 +9,9 @@ title = "Skills"
 subtitle = ""
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
@@ -42,7 +42,7 @@ subtitle = ""
   icon = "cloud"
   icon_pack = "fas"
   name = "Cloud Computing"
-  description = "Azure, AWS"
+  description = "Azure & AWS (Beginner)"
 
 [[feature]]
   icon = "terminal"
@@ -67,7 +67,7 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
   description = "Intermediate"  
-  
+
 
 # Uncomment to use emoji icons.
 # [[feature]]

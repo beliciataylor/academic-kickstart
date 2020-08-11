@@ -35,9 +35,9 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2020-05-06"
-  date_end = ""
+  date_end = "2020-07-01"
   description = """
-  Courses
+  Courses:
   * Learning Hadoop [(See Certificate)](files/LearningHadoop.pdf)
   * Cloud Hadoop: Scaling Apache Spark [(See Certificate)](files/CloudHadoop.pdf)
   * Learning Azure Storage for Developers [(See Certificate)](files/LearningAzureStorage.pdf)
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   date_start = "2020-05-06"
   date_end = "2020-05-25"
   description = """
-  Courses in Specialization
+  Courses in Specialization:
   * Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
   * Convolutional Neural Networks in TensorFlow
   * Natural Language Processing in TensorFlow

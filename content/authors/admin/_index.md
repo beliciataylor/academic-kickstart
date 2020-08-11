@@ -21,39 +21,40 @@ organizations:
 bio: ""
 
 interests:
-- Economics
+- Public Economics
 - Machine Learning
-- English Literature
+- Natural Language Processing
 
 education:
   courses:
   - course: Bachelor of Arts in Economics and Mathematics
     institution: Emory University
-    year: 2021
+    year: Aug 2017 - Dec 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: link
-  icon_pack: fas
-  link: 'https://belledata.rbind.io'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:belicia.taylor@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
-  icon_pack: fab 
+  icon_pack: fab
   link: https://github.com/beliciataylor
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/beliciarodriguez
-- icon: medium
-  icon_pack: fab
-  link: https://medium.com/@beliciataylor
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/beliciataylor
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/@beliciataylor
+- icon: link
+  icon_pack: fas
+  link: 'https://belledata.rbind.io'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #- icon: cv
@@ -70,4 +71,4 @@ user_groups:
 - []
 ---
 
-I'm a student at Emory University majoring in Economics and Mathematics, minoring in English. I'm currently a research assistant working on a project using machine learning techniques and natural language processing in Python. 
+I am a rising senior at Emory College of Arts & Sciences majoring in Economics and Mathematics with an English minor. I am seeking a research assistant job, and I aim to earn a PhD in Economics. I am interested in doing public economics research. I'm currently a research assistant working on a project using machine learning techniques and natural language processing in Python.

@@ -29,23 +29,8 @@ date_format = "Jan 2006"
   Responsibilities include:
 
   * Using machine learning techniques for natural language processing
+  * Creating co-authorship networks with Python's NetworkX and Gephi
   * Working with Azure virtual machines
-  * Attending weekly research and professional seminars from program
-
-  """
-
-[[experience]]
-  title = "Program Assistant"
-  company = "Emory Oral History Program"
-  company_url = "https://guides.libraries.emory.edu/main/firstgen"
-  location = "Atlanta, GA"
-  date_start = "2019-07-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-
-  * Transcribing interviews from the program's underrepresented voices and coronavirus pandemic projects
-  * Promoting the program through tabling on Emory's campus and class talks
 
   """
 
@@ -75,8 +60,7 @@ date_format = "Jan 2006"
 
   * Used R for statistical analysis
   * Gathered literature reviews from EBSCO, JSTOR, and other economics journals
-  * Attending weekly research and professional seminar from program
-  
+
   """
 
 +++

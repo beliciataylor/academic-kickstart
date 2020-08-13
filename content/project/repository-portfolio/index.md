@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-summary: Code used to improve skill-sets
+summary: Portfolio of my projects
 tags:
 - Repository
 date: "2019-07-12"

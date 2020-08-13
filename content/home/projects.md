@@ -33,6 +33,10 @@ subtitle = ""
     name = "Newspaper"
     tag = "Newspaper"
 
+[[content.filter_button]]
+    name = "Repositories"
+    tag = "Repository"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"

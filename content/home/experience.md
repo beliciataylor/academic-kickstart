@@ -24,13 +24,12 @@ date_format = "Jan 2006"
   company_url = "http://college.emory.edu/undergraduate-research/summer/index.html"
   location = "Atlanta, GA"
   date_start = "2020-05-26"
-  date_end = ""
+  date_end = "2020-07-31"
   description = """
-  Responsibilities include:
 
-  * Using machine learning techniques for natural language processing
-  * Creating co-authorship networks with Python's NetworkX and Gephi
-  * Working with Azure virtual machines
+* Worked as a full-time research assistant under Dr. David Jacho-Chavez on studying co-authorship networks from top-five general interest economics journals using natural language processing
+* Explored co-authorship connections using Python's NetworkX and using natural language processing tools from Python's Scikit-Learn and SpaCy
+* Created weekly presentations using LaTeX Beamer and presented updates on research progress and findings to SURE mentor and research group which accumulated into a final research poster
 
   """
 
@@ -40,11 +39,12 @@ date_format = "Jan 2006"
   company_url = "http://college.emory.edu/oue/current-students/student-support/peer-tutoring-mentoring.html"
   location = "Atlanta, GA"
   date_start = "2020-01-16"
-  date_end = "2020-04-26"
+  date_end = ""
   description = """
-  Responsibilities include:
 
-  * Tutoring undergraduate students one-on-one in intermediate microeconomics and intermediate macroeconomics
+  * Tutor students one-on-one in Intermediate Microeconomics and/or Intermediate Macroeconomics for one-hour sessions at least six times a week
+  * Help students learn course content and improve learning strategies for the course
+  * Recommend learning strategies for the course
 
   """
 
@@ -56,10 +56,10 @@ date_format = "Jan 2006"
   date_start = "2018-09-01"
   date_end = "2018-12-31"
   description = """
-  Responsibilities included:
 
-  * Used R for statistical analysis
-  * Gathered literature reviews from EBSCO, JSTOR, and other economics journals
+  * Assisted with research on the gender differences in state legislator’s career aspirations and on the effectiveness of United Nations refugee assistance program in Lebanon by analyzing survey data
+  * Recoded data from STATA or Excel files and created R markdown documents to organize the important variables and statistical analysis into tables
+  * Read and gathered research papers on effectiveness of gender quotas for governing positions and gender gaps on state governments in EBSCO, JSTOR and Science Direct to be used in Literature Review
 
   """
 

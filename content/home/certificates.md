@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   organization_url = "https://www.coursera.org/"
   title = "Introduction to Data Science in Python"
   url = "https://www.coursera.org/learn/python-data-analysis"
-  certificate_url = "files/Intro_Data_Science_Python.pdf"
+  certificate_url = "files/certificates/Intro_Data_Science_Python.pdf"
   date_start = "2020-05-31"
   date_end = "2020-07-01"
   description = ""
@@ -38,10 +38,10 @@ date_format = "Jan 2006"
   date_end = "2020-07-01"
   description = """
   Courses:
-  * Learning Hadoop [(See Certificate)](files/LearningHadoop.pdf)
+  * Learning Hadoop [(See Certificate)](files/certificates/LearningHadoop.pdf)
   * Cloud Hadoop: Scaling Apache Spark [(See Certificate)](files/CloudHadoop.pdf)
-  * Learning Azure Storage for Developers [(See Certificate)](files/LearningAzureStorage.pdf)
-  * Azure Spark Databricks Essential Training [(See Certificate)](files/AzureSparkDatabricksEssentialTraining.pdf)
+  * Learning Azure Storage for Developers [(See Certificate)](files/certificates/LearningAzureStorage.pdf)
+  * Azure Spark Databricks Essential Training [(See Certificate)](files/certificates/AzureSparkDatabricksEssentialTraining.pdf)
   """
 
 [[item]]
@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   organization_url = "https://www.coursera.org/"
   title = "Tensorflow in Practice"
   url = "https://www.coursera.org/specializations/tensorflow-in-practice?"
-  certificate_url = "files/tensorflow_in_practice.pdf"
+  certificate_url = "files/certificates/tensorflow_in_practice.pdf"
   date_start = "2020-05-06"
   date_end = "2020-05-25"
   description = """

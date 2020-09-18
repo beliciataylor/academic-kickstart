@@ -1,7 +1,7 @@
 ---
-title: 'Co-authorship networks in academic publishling in economics'
-subtitle: 'Summer Undergraduate Research Virtual Symposium Poster'
-summary: 'Write up of Emory Summer Undergraduate Research Experience virtual poster presentation'
+title: 'Co-authorship networks in academic publishing in economics'
+subtitle: 'Write-up of Emory Summer Undergraduate Research Experience virtual poster presentation'
+summary: 'Write-up of Emory Summer Undergraduate Research Experience virtual poster presentation'
 authors:
 - admin
 tags:
@@ -65,4 +65,4 @@ Our study found that, according to the statistic, our networks were all small-wo
 
 The red nodes, or circles, signify all the authors who are part of the largest connected group. The blue nodes are not in the largest connection. Overtime, more authors are added to the largest group until majority are in the largest connected group.
 
-Therefore, this study shows that authors publishing in these top five general-interest economic jouranls tend to be interconnected with each other and form small communities. This study is a precursor into our study of creating co-authorship networks using natural language processing. 
+Therefore, this study shows that authors publishing in these top five general-interest economic jouranls tend to be interconnected with each other and form small communities. This study is a precursor into our study of creating co-authorship networks using natural language processing.

@@ -50,7 +50,7 @@ Having your repositories in a server has an added benefit--you can now access yo
 
 ![Distributed](distributed.png)
 
-We mentioned GitHub as our "server computer" in our example, but in more general terms, GitHub is a centralized location for hosting git repositories (think: Git HUB). As far as I know, git repositories can store and update almost any file type including Python and R scripts, Jupyter notebooks, RMarkdown files, and PDFs. We've previously said we can store a copy of our local repository on GitHub.com, but how do we technically to do that? There are four Git commands that complete this process:
+We mentioned GitHub as our "server computer" in our example, but in more general terms, GitHub is a centralized location for hosting git repositories (think: Git HUB). As far as I know, git repositories can store and update almost any file type including Python and R scripts, Jupyter notebooks, RMarkdown files, and PDFs. We've previously said we can store a copy of our local repository on GitHub.com, but how do we technically do that? There are four Git commands that complete this process:
 
 1. _git add_: tells git you want to add a version of a file to your local repository
 2. _git commit_: saves the versions of the files you previously "git" added to your local repository
@@ -68,13 +68,13 @@ Now that we've established our understanding of git and GitHub, how do we get st
 1. Download Git onto your local computer.
 2. Create a GitHub account.
 3. Create a repository on GitHub.
-4. Create a copy of a repository on your local computer.
+4. Create a copy of your repository on your local computer.
 5. Add a file to your local repository.
 6. Push your file to GitHub.
 7. Make changes to a file on GitHub.
 8. Pull changes to your local computer.
 
-This concludes the "lecture" portion of my talk; the demonstration portion of my talk has been written out in great detail in my [handout](introduction-to-github-website.pdf), and there are screenshots of my screen showing each step in the process. Section 2 of the handout goes over how to install git for Windows, Linux, and Mac computers. Section 3 reviews how to set up a GitHub account. Section 4 talks about creating a repository. Finally, section 5 shows how to use the git commands to update your repository.
+To accomplish these steps, I would like to refer you to my [handout](introduction-to-github-website.pdf), which contains screenshots of my browser and terminal that show each step in the process. Section 2 of the handout goes over how to install git for Windows, Linux, and Mac computers. Section 3 reviews how to set up a GitHub account. Section 4 talks about creating a repository. Finally, section 5 shows how to use the git commands to update your repository.
 
 Here's a preview of section 4 and 5 of the handout:
 

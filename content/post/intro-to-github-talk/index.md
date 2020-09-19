@@ -34,8 +34,6 @@ projects: []
 
 _Background_: As a senior undergraduate student at Emory, I had the pleasure of being invited to talk to an Emory undergraduate research course on how to begin using GitHub, and the following post summarizes the key points of that talk. I will be reviewing version control systems, the connection between Git and GitHub, and introducing the purpose behind common git commands (i.e push, pull, commit). Additionally, I will highlight portions of my [detailed handout]("files/Introduction_to_GitHub_doc.pdf") which goes step-by-step into how to create a repository, how to update a local and remote repository using Git commands, etc. For a detailed write-up of my talk, please see my handout, which contains my notes for the presentation and demonstration and was distributed to the students of the class.
 
-___
-
 Before we begin discussing the purpose and function of Git and GitHub, let's start with understanding what version control systems are. A version control system allows you to make changes to a file or a set of files over time.
 
 How is this different from how we normally save versions of documents? Imagine you are writing a paper for a course. You write the first paragraph, save, exit out of the document, return to the document the next day, rewrite the first paragraph, add a second paragraph, and save. Now, you're rereading your first paragraph and realize you liked the first paragraph you wrote yesterday better. As much as you may want that first draft back, that version of your document is no longer available.
@@ -61,7 +59,7 @@ We mentioned GitHub as our "server computer" in our example, but in more general
 
 The following diagram shows the way the commands are used between local, server, and remote repositories:
 
-TBD
+![](git_github_diagram.png)
 
 Now that we've established our understanding of git and GitHub, how do we get started? To complete the process we've been outlining, we will complete the following steps:
 

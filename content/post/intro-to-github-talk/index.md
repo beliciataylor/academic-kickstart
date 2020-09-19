@@ -8,7 +8,7 @@ tags:
 - Git
 - GitHub
 categories:
-- Talk Write-Ups
+- Talk-Write-Ups
 date: "2020-09-18"
 lastmod: "2020-09-18"
 featured: false
@@ -42,13 +42,13 @@ How is this different from how we normally save versions of documents? Imagine y
 
 Here is where version control solves your problem. With version control, you have access multiple versions of a document, meaning you'll have a record of all the changes that has been done to a document. Your file's versions are stored in a version database. If you don't like a current version of a document and want to revert back to an older version, you can. That first paragraph from yesterday is now easily accessible.
 
-![Version Control](github_img/version_control.png)
+![Version Control](version_control.png)
 
 What does version control have to do with Git? Git is a type of version control called _distributed version control system_. Pretend that we have a computer A, or your local computer, where all of your file's versions are stored in a version database, or a repository. What happens if you spill coffee all over your keyboard and lose all your files? You'd lose all your documents and their versions! Git can also store a copy of your local repositories in a server computer, or GitHub. That way, after you get a new computer, you can retrieve all of your versions and documents from the server computer.
 
 Having your repositories in a server has an added benefit--you can now access your repositories from any other computer i.e a work or remote computer. You can also update your server repository from a remote computer; that way, once your finished working on your repository at work, you can send it back to the server, and when you get home, you can upload your changes and continue working with your most up-to-date repository.
 
-![Distributed](github_img/distributed.png)
+![Distributed](distributed.png)
 
 We mentioned GitHub as our "server computer" in our example, but in more general terms, GitHub is a centralized location for hosting git repositories (think: Git HUB). As far as I know, git repositories can store and update almost any file type including Python and R scripts, Jupyter notebooks, RMarkdown files, and PDFs. We've previously said we can store a copy of our local repository on GitHub.com, but how do we technically to do that? There are four Git commands that complete this process:
 
@@ -57,11 +57,11 @@ We mentioned GitHub as our "server computer" in our example, but in more general
 3. _git push_: sends the updated local repository to your server repository
 4. _git pull_: if changes were made to your server repository, git pull updates your local repository with those changes
 
-![](github_img/git_push_pull_commands.jpg)
+![](git_push_pull_commands.jpg)
 
 The following diagram shows the way the commands are used between local, server, and remote repositories:
 
-![](github_img/git_github_diagram.png)
+TBD
 
 Now that we've established our understanding of git and GitHub, how do we get started? To complete the process we've been outlining, we will complete the following steps:
 
@@ -78,8 +78,8 @@ This concludes the "lecture" portion of my talk; the demonstration portion of my
 
 Here's a preview of section 4 and 5 of the handout:
 
-![](github_img/handout_pic_1.png)
+![](handout_pic_1.png)
 
-![](github_img/handout_pic_2.png)
+![](handout_pic_2.png)
 
 And that's it! After reviewing the handout and going through the demonstration, the power of git and GitHub are at your fingertips. Happy committing!

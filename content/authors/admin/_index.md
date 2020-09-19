@@ -71,4 +71,4 @@ user_groups:
 - []
 ---
 
-I am a rising senior at Emory College of Arts & Sciences majoring in Economics and Mathematics with an English minor. I am seeking a research assistant position to further prepare myself for a PhD in Economics with an interest in studying public economics. I'm currently a research assistant working on a project using machine learning techniques and natural language processing in Python. 
+I am a rising senior at Emory College of Arts & Sciences majoring in Economics and Mathematics with an English minor. I am seeking a research assistant position to further prepare myself for a PhD in Economics with an interest in studying public economics. I'm currently a research assistant working on a project using machine learning, postgreSQL, and natural language processing in Python. 

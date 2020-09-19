@@ -1,11 +1,11 @@
 ---
 title: 'Co-authorship networks in academic publishing in economics'
-subtitle: 'Write-up of Emory Summer Undergraduate Research Experience virtual poster presentation'
-summary: 'Write-up of Emory Summer Undergraduate Research Experience virtual poster presentation'
+subtitle: 'A write-up of my Emory Summer Undergraduate Research Experience virtual symposium poster presentation'
+summary: 'A write-up of my Emory Summer Undergraduate Research Experience virtual symposium poster presentation'
 authors:
 - admin
 tags:
-- research
+- Research
 categories:
 - Research
 date: "2020-08-11"

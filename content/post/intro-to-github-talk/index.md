@@ -12,7 +12,7 @@ categories:
 date: "2020-09-18"
 lastmod: "2020-09-18"
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -82,4 +82,4 @@ Here's a preview of section 4 and 5 of the handout:
 
 ![](github_img/handout_pic_2.png)
 
-And that's it! After reviewing the handout and going through the demonstration, the power of git and GitHub are at your fingertips. Happy committing! 
+And that's it! After reviewing the handout and going through the demonstration, the power of git and GitHub are at your fingertips. Happy committing!

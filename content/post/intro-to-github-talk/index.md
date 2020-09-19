@@ -20,7 +20,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: ''
+  caption: 'Git and GitHub'
   focal_point: ""
   preview_only: false
 
@@ -32,7 +32,9 @@ image:
 projects: []
 ---
 
-_Background_: As a senior undergraduate student at Emory, I had the pleasure of being invited to talk to an Emory undergraduate research course on how to begin using GitHub, and the following post summarizes the key points of that talk. I will be reviewing version control systems, the connection between Git and GitHub, and introducing the purpose behind common git commands (i.e push, pull, commit). Additionally, I will highlight portions of my [detailed handout]("files/Introduction_to_GitHub_doc.pdf") which goes step-by-step into how to create a repository, how to update a local and remote repository using Git commands, etc. For a detailed write-up of my talk, please see my handout, which contains my notes for the presentation and demonstration and was distributed to the students of the class.
+_Background_: As a senior undergraduate student at Emory, I had the pleasure of being invited to talk to an Emory undergraduate research course on how to begin using GitHub, and the following post summarizes the key points of that talk. I will be reviewing version control systems, the connection between Git and GitHub, and introducing the purpose behind common git commands (i.e push, pull, commit). Additionally, I will highlight portions of my [detailed handout](introduction-to-github-website.pdf) which goes step-by-step into how to create a repository, how to update a local and remote repository using Git commands, etc. For a detailed write-up of my talk, please see my handout, which contains my notes for the presentation and demonstration and was distributed to the students of the class.
+
+___
 
 Before we begin discussing the purpose and function of Git and GitHub, let's start with understanding what version control systems are. A version control system allows you to make changes to a file or a set of files over time.
 
@@ -72,7 +74,7 @@ Now that we've established our understanding of git and GitHub, how do we get st
 7. Make changes to a file on GitHub.
 8. Pull changes to your local computer.
 
-This concludes the "lecture" portion of my talk; the demonstration portion of my talk has been written out in great detail in my [handout]("files/Introduction_to_GitHub_doc.pdf"), and there are screenshots of my screen showing each step in the process. Section 2 of the handout goes over how to install git for Windows, Linux, and Mac computers. Section 3 reviews how to set up a GitHub account. Section 4 talks about creating a repository. Finally, section 5 shows how to use the git commands to update your repository.
+This concludes the "lecture" portion of my talk; the demonstration portion of my talk has been written out in great detail in my [handout](introduction-to-github-website.pdf), and there are screenshots of my screen showing each step in the process. Section 2 of the handout goes over how to install git for Windows, Linux, and Mac computers. Section 3 reviews how to set up a GitHub account. Section 4 talks about creating a repository. Finally, section 5 shows how to use the git commands to update your repository.
 
 Here's a preview of section 4 and 5 of the handout:
 

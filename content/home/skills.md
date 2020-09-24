@@ -45,15 +45,15 @@ subtitle = ""
   description = "Azure & AWS (Beginner)"
 
 [[feature]]
-  icon = "terminal"
-  icon_pack = "fas"
-  name = "Shell"
-  description = "Intermediate"
-
-[[feature]]
   icon = "overleaf"
   icon_pack = "ai"
   name = "LaTeX"
+  description = "Intermediate"
+
+[[feature]]
+  icon = "terminal"
+  icon_pack = "fas"
+  name = "Shell"
   description = "Intermediate"
 
 [[feature]]

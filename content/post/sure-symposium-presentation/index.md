@@ -19,7 +19,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'SURE Virtual Symposium Poster'
+  caption: ''
   focal_point: ""
   preview_only: false
 

@@ -27,9 +27,12 @@ date_format = "Jan 2006"
   date_end = "2020-07-31"
   description = """
 
-* Worked as a full-time research assistant under Dr. David Jacho-Chavez on studying co-authorship networks from top-five general interest economics journals using natural language processing
-* Explored co-authorship connections using Python's NetworkX and using natural language processing tools from Python's Scikit-Learn and SpaCy
-* Created weekly presentations using LaTeX Beamer and presented updates on research progress and findings to SURE mentor and research group which accumulated into a final research poster
+  * Worked as a full-time research assistant under Dr. David Jacho-Chavez on studying co-authorship networks from top-five general interest economics journals using social network analysis and natural language processing
+  * Explored co-authorship connections using Python's NetworkX and using natural language processing tools from Python's Scikit-Learn and SpaCy
+  * Created network visualizations using Gephi and visualizations of exploratory analysis using matplotlib and tikzplotlib
+  * Created weekly presentations using LaTeX Beamer and presented updates on research progress and findings to SURE mentor and research group which accumulated into a final research poster
+  * Used a 32-core Linux virtual machine on Azure and Python's Multiprocessing package to compute-heavy co-authorship network calculations in parallel  
+  * Created a Waf reproducible research template which automatically runs all Python code and reproduces the analysis and results from the project
 
   """
 
@@ -57,9 +60,9 @@ date_format = "Jan 2006"
   date_end = "2018-12-31"
   description = """
 
-  * Assisted with research on the gender differences in state legislator’s career aspirations and on the effectiveness of United Nations refugee assistance program in Lebanon by analyzing survey data
-  * Recoded data from STATA or Excel files and created R markdown documents to organize the important variables and statistical analysis into tables
-  * Read and gathered research papers on effectiveness of gender quotas for governing positions and gender gaps on state governments in EBSCO, JSTOR and Science Direct to be used in Literature Review
+  * Assisted Dr. Stephen O'Connell with research on the gender differences in state legislator’s career aspirations and on the effectiveness of United Nations refugee assistance program in Lebanon by analyzing survey data
+  * Recoded data from Stata or Excel files, ran statistical analysis on important variables, and wrote summaries of the findings all within an R markdown document
+  * Read and gathered research papers on effectiveness of gender quotas for governing positions and gender gaps on state governments using EBSCO, Jstor and Science Direct to be referenced in a literature review
 
   """
 

@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-summary: Portfolio of my projects
+summary: GitHub repository including classwork from Econometrics, Machine Learning, etc
 tags:
 - Repository
 date: "2019-07-12"

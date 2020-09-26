@@ -1,6 +1,6 @@
 ---
 title: Self-Study
-summary: Code and materials used to self-teach programming languages
+summary: GitHub repository including code and materials to self-teach programming such as natural language processing and PostgreSQL
 tags:
 - Repository
 date: "2019-07-12"

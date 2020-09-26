@@ -1,6 +1,6 @@
 ---
-title:
-summary: Tips for Developing Website Using blogdown
+title: Tips for Developing Website Using blogdown
+summary: Published Medium article explaining blogdown, Netlify, and git commands
 tags:
 - Medium
 date: "2019-04-22"

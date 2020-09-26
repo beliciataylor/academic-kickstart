@@ -1,6 +1,6 @@
 ---
-title:
-summary: Emory Wheel College Newspaper Articles
+title: Emory Wheel College Newspaper Articles
+summary: Senior Staff Writer for News Team (Sept 2017 - Oct 2018)
 tags:
 - Newspaper
 date: "2018-10-20"
@@ -9,6 +9,6 @@ date: "2018-10-20"
 external_link: https://emorywheel.com/author/beliciarodriguez/
 
 image:
-  caption: newspaper
+  caption: ""
   focal_point: Smart
 ---

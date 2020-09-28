@@ -1,9 +1,10 @@
 ---
 title: Intro to Git & GitHub Handout
-summary: From GitHub talk I wrote about [here](https://beliciarodriguez.com/post/intro-to-github-talk/)
+summary: From GitHub talk given for an undergraduate research course ([Read About Talk](https://beliciarodriguez.com/post/intro-to-github-talk/))
 tags:
 - Git
 - GitHub
+- Undergraduate
 categories:
 - Talk-Write-Ups
 - Documents

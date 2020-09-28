@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   description = """
 
   * Tutor students one-on-one in Intermediate Microeconomics and/or Intermediate Macroeconomics for one-hour sessions at least six times a week
-  * Help students learn course content and improve learning strategies for the course
+  * Help students learn course content and improve learning strategies
   * Recommend learning strategies for the course
 
   """
@@ -61,7 +61,7 @@ date_format = "Jan 2006"
   description = """
 
   * Assisted Dr. Stephen O'Connell with research on the gender differences in state legislator’s career aspirations and on the effectiveness of United Nations refugee assistance program in Lebanon by analyzing survey data
-  * Recoded data from Stata or Excel files, ran statistical analysis on important variables, and wrote summaries of the findings all within an R markdown document
+  * Recoded data from Stata or Excel files, ran statistical analysis on important variables, and wrote summaries of the findings in an RMarkdown document
   * Read and gathered research papers on effectiveness of gender quotas for governing positions and gender gaps on state governments using EBSCO, Jstor and Science Direct to be referenced in a literature review
 
   """

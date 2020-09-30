@@ -26,6 +26,10 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
+    name = "Presentations"
+    tag = "Presentations"
+
+  [[content.filter_button]]
     name = "Repositories"
     tag = "Repository"
 

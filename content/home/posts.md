@@ -10,6 +10,7 @@ weight = 60  # Order that this section will appear.
 title = "Blog Posts"
 subtitle = "Check out my blog [here](https://blog.beliciarodriguez.com)!"
 
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"

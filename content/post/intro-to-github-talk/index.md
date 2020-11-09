@@ -32,6 +32,10 @@ image:
 projects: []
 ---
 
+_Note_: This post can also be found on my [blog](https://blog.beliciarodriguez.com).
+
+---
+
 _Background_: As a senior undergraduate student at Emory, I had the pleasure of being invited to talk to an Emory undergraduate research course on how to begin using GitHub, and the following post summarizes the key points of that talk. I will be reviewing version control systems, the connection between Git and GitHub, and introducing the purpose behind common git commands (i.e push, pull, commit). Additionally, I will highlight portions of my [detailed handout](introduction-to-github-website.pdf) which goes step-by-step into how to create a repository, how to update a local and remote repository using Git commands, etc. For a detailed write-up of my talk, please see my handout, which contains my notes for the presentation and demonstration and was distributed to the students of the class.
 
 ___

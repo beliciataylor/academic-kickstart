@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Highlighted Skills"
+title = "Programming Skills"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -19,31 +19,55 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = """
-
-  I have experience conducting network analysis using NetworkX package, Natural Language Processing using Natural Language Toolkit (NLTK) and SpaCy, and Machine Learning using Scikit-Learn and TensorFlow.
-
-  """
+  description = "Advanced"
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = """
+  description = "Intermediate"
 
-  I've completed econometrics coursework at Emory where I've used R and R Markdown to conduct different analysis such as OLS, Ridge, Lasso, and Elastic Net regression analysis.
-
-  """
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "Beginner"
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = """
+  description = "Beginner"
 
-  I've self-studied SQL Server and PostgreSQL, and I am currently using PostgreSQL as an RA working on co-authorship networks. I also have experience creating a PostgreSQL server and database using AWS EC2 instance.
+[[feature]]
+  icon = "cloud"
+  icon_pack = "fas"
+  name = "Cloud Computing"
+  description = "Azure & AWS (Beginner)"
 
-  """
+[[feature]]
+  icon = "overleaf"
+  icon_pack = "ai"
+  name = "LaTeX"
+  description = "Intermediate"
+
+[[feature]]
+  icon = "terminal"
+  icon_pack = "fas"
+  name = "Shell"
+  description = "Intermediate"
+
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+  description = "Intermediate"
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics"
+  description = "Intermediate"  
 
 
 # Uncomment to use emoji icons.

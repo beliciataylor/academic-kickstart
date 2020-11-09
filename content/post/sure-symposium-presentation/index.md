@@ -31,6 +31,10 @@ image:
 projects: []
 ---
 
+_Note_: This post can also be found on my [blog](https://blog.beliciarodriguez.com).
+
+---
+
 During the summer of 2020, I researched whether co-authorship networks in the top five economics journals modeled small-worldness.
 
 What is a co-authorship network? A co-authorship network shows the connections between authors who have published a paper together. Take the following sample co-authorship network as our example.

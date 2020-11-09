@@ -21,13 +21,13 @@ organizations:
 bio: ""
 
 interests:
-- Social Networks
-- Machine Learning
-- Natural Language Processing
+  - Social Networks
+  - Machine Learning
+  - Natural Language Processing
 
 education:
   courses:
-  - course: Bachelor of Arts in Economics and Mathematics
+  - course: BA in Economics & Mathematics, English Minor
     institution: Emory University
     year: Aug 2017 - Dec 2020
 
@@ -54,9 +54,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#- icon: cv
-#  icon_pack: ai
-#  link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,4 +68,6 @@ user_groups:
 - []
 ---
 
-I am a rising senior at Emory College of Arts & Sciences majoring in Economics and Mathematics with an English minor. I am seeking a research assistant position to further prepare myself for a PhD in Economics. I'm currently a research assistant in the Emory Economics department working on a project using machine learning, PostgreSQL, and natural language processing in Python.
+**My name is Belicia Rodriguez, and I'm a college student at Emory University interested in Economics and Data Science.**
+
+I'm currently a Research Assistant in the Emory Economics department, where I'm collaborating on a project that analyzes co-authorship networks with traditional social network methods and natural language processing. I'm seeking a Research Assistant position to gain more exposure to economics research and further prepare myself for a PhD in Economics. When I'm not busy with a research project or coursework, I can be found knitting a new pattern, reading a book from my growing to-reads list, or working on my economics and data science blog.

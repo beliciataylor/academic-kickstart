@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Experience"
-subtitle = ""
+title = "Research Experience"
+subtitle = "My [resumé](/resume) section lists all my skills, experiences, and certificates."
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -33,21 +33,6 @@ date_format = "Jan 2006"
   * Created weekly presentations using LaTeX Beamer and presented updates on research progress and findings to SURE mentor and research group which accumulated into a final research poster
   * Used a 32-core Linux virtual machine on Azure and Python's Multiprocessing package to compute-heavy co-authorship network calculations in parallel  
   * Created a Waf reproducible research template which automatically runs all Python code and reproduces the analysis and results from the project
-
-  """
-
-[[experience]]
-  title = "Peer Tutor"
-  company = "Emory Pathways to Academic and Student Support (EPASS)"
-  company_url = "http://college.emory.edu/oue/current-students/student-support/peer-tutoring-mentoring.html"
-  location = "Atlanta, GA"
-  date_start = "2020-01-16"
-  date_end = ""
-  description = """
-
-  * Tutor students one-on-one in Intermediate Microeconomics and/or Intermediate Macroeconomics for one-hour sessions at least six times a week
-  * Help students learn course content and improve learning strategies
-  * Recommend learning strategies for the course
 
   """
 

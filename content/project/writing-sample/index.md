@@ -13,7 +13,7 @@ date: "2020-09-29"
 
 
 # Optional external URL for project (replaces project detail page).
-external_link: files/refugee-crises-writing-sample.pdf
+external_link: https://beliciarodriguez.com/project/writing-sample/refugee-crises.pdf
 
 image:
   caption: repository

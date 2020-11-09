@@ -8,7 +8,7 @@ tags:
 date: "2019-07-12"
 
 # Optional external URL for project (replaces project detail page).
-external_link: files/introduction-to-github-website.pdf
+external_link: https://beliciarodriguez.com/project/github-worksheet/intro-to-github.pdf
 
 image:
   caption: ""

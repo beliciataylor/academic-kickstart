@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Peer Tutor"
-  company = "Emory Pathways to Academic and Student Support (EPASS)"
+  company = "Emory Pathways to Academic Success for Students (EPASS)"
   company_url = "http://college.emory.edu/oue/current-students/student-support/peer-tutoring-mentoring.html"
   location = "Atlanta, GA"
   date_start = "2020-01-16"

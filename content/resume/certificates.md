@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   organization_url = "https://www.coursera.org/"
   title = "Introduction to Data Science in Python"
   url = "https://www.coursera.org/learn/python-data-analysis"
-  certificate_url = "coursera/Intro_Data_Science_Python.pdf"
+  certificate_url = "coursera/Intro-Data-Science-Python.pdf"
   date_start = "2020-05-31"
   date_end = "2020-07-01"
   description = ""
@@ -38,8 +38,8 @@ date_format = "Jan 2006"
   date_end = "2020-07-01"
   description = """
   Courses:
-  * Learning Azure Storage for Developers - [See Certificate](linkedin-learning/LearningAzureStorage.pdf)
-  * Azure Spark Databricks Essential Training - [See Certificate](linkedin-learning/AzureSparkDatabricksEssentialTraining.pdf)
+  * Learning Azure Storage for Developers - [See Certificate](linkedin-learning/Azure-Storage.pdf)
+  * Azure Spark Databricks Essential Training - [See Certificate](linkedin-learning/Azure-Databricks.pdf)
   * Learning Azure SQL Querying - [See Certificate](linkedin-learning/Azure-SQL-Querying.pdf)
   """
 
@@ -53,8 +53,8 @@ date_format = "Jan 2006"
   date_end = "2020-07-01"
   description = """
   Courses:
-  * Learning Hadoop - [See Certificate](linkedin-learning/LearningHadoop.pdf)
-  * Cloud Hadoop: Scaling Apache Spark - [See Certificate](linkedin-learning/CloudHadoop.pdf)
+  * Learning Hadoop - [See Certificate](linkedin-learning/Learning-Hadoop.pdf)
+  * Cloud Hadoop: Scaling Apache Spark - [See Certificate](linkedin-learning/Cloud-Hadoop.pdf)
   """
 
 [[item]]
@@ -62,7 +62,7 @@ date_format = "Jan 2006"
   organization_url = "https://www.coursera.org/"
   title = "Tensorflow in Practice"
   url = "https://www.coursera.org/specializations/tensorflow-in-practice?"
-  certificate_url = "coursera/tensorflow_in_practice.pdf"
+  certificate_url = "coursera/Tensorflow-In-Practice.pdf"
   date_start = "2020-05-06"
   date_end = "2020-05-25"
   description = """
@@ -87,7 +87,7 @@ date_format = "Jan 2006"
 
   * Learning Microsoft SQL Server 2019 - [Course Site](https://www.linkedin.com/learning/learning-microsoft-sql-server-2019) - [View Certificate](linkedin-learning/Learning-Microsoft-SQL-Server-2019.pdf)
 
-  * SQL Server 2017: What's New - [Course Site](https://www.linkedin.com/learning/sql-server-2017-what-s-new) - [View Certificate](files/linkedin-learning/SQL-Server-2017-Whats-New.pdf)
+  * SQL Server 2017: What's New - [Course Site](https://www.linkedin.com/learning/sql-server-2017-what-s-new) - [View Certificate](linkedin-learning/SQL-Server-2017-Whats-New.pdf)
   """
 
 [[item]]
@@ -100,12 +100,12 @@ date_format = "Jan 2006"
   date_end = "2020-07-01"
   description = """
   Courses:
-  * Python for Data Visualizations - [Course Site](https://www.linkedin.com/learning/python-for-data-visualization) - [View Certificate](files/linkedin-learning/Python-for-Data-Visualization.pdf)
+  * Python for Data Visualizations - [Course Site](https://www.linkedin.com/learning/python-for-data-visualization) - [View Certificate](linkedin-learning/Python-for-Data-Visualization.pdf)
 
   * NumPy Data Science Essential Training -
-  [Course Site](https://www.linkedin.com/learning/numpy-data-science-essential-training) - [View Certificate](files/linkedin-learning/Numpy-Data-Science-Essential-Training.pdf)
+  [Course Site](https://www.linkedin.com/learning/numpy-data-science-essential-training) - [View Certificate](linkedin-learning/Numpy-Data-Science-Essential-Training.pdf)
 
-  * Python Essential Training - [Course Site](https://www.linkedin.com/learning/python-essential-training-2) - [View Certificate](files/linkedin-learning/Python-Essential-Training.pdf)
+  * Python Essential Training - [Course Site](https://www.linkedin.com/learning/python-essential-training-2) - [View Certificate](linkedin-learning/Python-Essential-Training.pdf)
   """
 
 [[item]]
@@ -118,9 +118,9 @@ date_format = "Jan 2006"
   date_end = "2020-07-01"
   description = """
   Courses:
-  * Introduction to Shell - [View Certificate](files/datacamp/Intro-to-Shell.pdf)
+  * Introduction to Shell - [View Certificate](datacamp/Intro-to-Shell.pdf)
 
-  * Data Processing in Shell - [View Certificate](files/datacamp/Data-Processing-In-Shell.pdf)
+  * Data Processing in Shell - [View Certificate](datacamp/Data-Processing-In-Shell.pdf)
 
   """
 

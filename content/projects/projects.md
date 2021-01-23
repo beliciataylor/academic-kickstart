@@ -26,8 +26,8 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Undergraduate"
-    tag = "Undergraduate"
+    name = "Documentation"
+    tag = "Documentation"
 
   [[content.filter_button]]
     name = "Presentations"
@@ -36,6 +36,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Repositories"
     tag = "Repositories"
+
+  [[content.filter_button]]
+    name = "Undergraduate"
+    tag = "Undergraduate"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

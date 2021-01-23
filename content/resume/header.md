@@ -47,3 +47,5 @@ subtitle = ""
    css_style = "text-align: center"
 
 +++
+
+Download my resume [<i class="fas fa-download"></i>](cv.pdf)

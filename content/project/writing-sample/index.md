@@ -6,7 +6,6 @@ authors:
 - admin
 tags:
 - Undergraduate
-- Featured
 categories:
 - Undergraduate
 date: "2020-09-29"

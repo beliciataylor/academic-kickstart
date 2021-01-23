@@ -4,6 +4,7 @@ title: Intro to Git & GitHub Handout
 summary: From GitHub talk given for an undergraduate research course ([Read About Talk](https://beliciarodriguez.com/post/intro-to-github-talk/))
 tags:
 - Presentations
+- Documentation
 - Undergraduate
 date: "2019-07-12"
 

@@ -41,7 +41,7 @@ subtitle = ""
   name = "SQL"
   description = """
 
-  I've self-studied SQL Server and PostgreSQL, and I am currently using PostgreSQL as an RA working on co-authorship networks. I also have experience creating a PostgreSQL server and database using AWS EC2 instance.
+  I self-studied and used PostgreSQL as an RA working on co-authorship networks. I also have experience creating a PostgreSQL server and database using AWS EC2 instance.
 
   """
 

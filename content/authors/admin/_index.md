@@ -10,18 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student
+role:
 
 # Organizations/Affiliations
 organizations:
-- name: Emory University
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
 
 interests:
-  - Social Networks
+  - Microeconomics
   - Machine Learning
   - Natural Language Processing
 
@@ -56,7 +56,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: resume/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,6 +68,10 @@ user_groups:
 - []
 ---
 
-**My name is Belicia Rodriguez, and I'm a college student at Emory University interested in Economics and Data Science.**
+**My name is Belicia Rodriguez, and I'm a Sr. Research Analyst at the New York Fed for Microeconomics Research and Community Development.**
 
-I'm currently a Research Assistant in the Emory Economics department, where I'm collaborating on a project that analyzes co-authorship networks with traditional social network methods and natural language processing. When I'm not busy with a research project or coursework, I can be found knitting a new pattern, reading a book from my growing to-reads list, or working on my economics and data science blog.
+I've recently graduated with a BA in Economics and Mathematics from Emory University. During my undergraduate education, I've been a research assistant in the Emory Economics department. Most notably, through Emory's Summer Research Program, I collaborated on a project that analyzed co-authorship networks with traditional social network methods and natural language processing.
+
+During my spare time, I can be found knitting a new pattern, reading a book from my growing to-reads list, or working on my data science.
+
+_The views and findings expressed here are those of the author's and do not necessarily reflect the views of the Federal Reserve Bank of New York or the Federal Reserve System._

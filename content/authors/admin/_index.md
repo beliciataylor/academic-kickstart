@@ -68,10 +68,10 @@ user_groups:
 - []
 ---
 
-**My name is Belicia Rodriguez, and I'm a Sr. Research Analyst at the New York Fed for Microeconomics Research and Community Development.**
+I am a Senior Research Analyst at the New York Fed in Microeconomics Research and Community Development.
 
-I've recently graduated with a BA in Economics and Mathematics from Emory University. During my undergraduate education, I've been a research assistant in the Emory Economics department. Most notably, through Emory's Summer Research Program, I collaborated on a project that analyzed co-authorship networks with traditional social network methods and natural language processing.
+I've recently graduated with a BA in Economics and Mathematics from Emory University, where I've been a research assistant in the Emory Economics department. Most notably, through Emory's Summer Research Program, I collaborated on a project that analyzed co-authorship networks with traditional social network methods and natural language processing.
 
-During my spare time, I can be found knitting a new pattern, reading a book from my growing to-reads list, or working on my data science.
+I am very interested in a research career, and I plan on pursuing a PhD in Economics. During my spare time, I can be found knitting a new pattern, reading a book from my growing to-reads list, or working on my data science blog.
 
 _The views and findings expressed here are those of the author's and do not necessarily reflect the views of the Federal Reserve Bank of New York or the Federal Reserve System._

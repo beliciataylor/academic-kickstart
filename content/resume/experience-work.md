@@ -3,9 +3,9 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 18  # Order that this section will appear.
 
-title = "Experience"
+title = "Professional & Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -28,21 +28,6 @@ date_format = "Jan 2006"
   description = """ """
 
 [[experience]]
-  title = "Peer Tutor"
-  company = "Emory Pathways to Academic Success for Students (EPASS)"
-  company_url = "http://college.emory.edu/oue/current-students/student-support/peer-tutoring-mentoring.html"
-  location = "Atlanta, GA"
-  date_start = "2020-01-16"
-  date_end = "2020-12-09"
-  description = """
-
-  - Tutored students one-on-one in Intermediate Microeconomics and/or Intermediate Macroeconomics for one-hour sessions at least six times a week
-  - Helped students learn course content and improve learning strategies for the course
-  - Recommended learning strategies for the course
-
-  """
-
-[[experience]]
   title = "Research Assistant"
   company = "Emory Summer Undergraduate Research Experience (SURE) Program"
   company_url = "http://college.emory.edu/undergraduate-research/summer/index.html"
@@ -56,20 +41,6 @@ date_format = "Jan 2006"
   * Created weekly presentations using LaTeX Beamer and presented updates on research progress and findings to SURE mentor and research group which accumulated into a final research poster
   * Used a 32-core Linux virtual machine on Azure and Python's Multiprocessing package to compute-heavy co-authorship network calculations in parallel
   * Created a Waf reproducible research template which automatically runs all Python code and reproduces the analysis and results from the project
-  """
-
-[[experience]]
-  title = "Program Assistant"
-  company = "Emory Oral History Program"
-  company_url = ""
-  location = "Atlanta, GA"
-  date_start = "2019-07-16"
-  date_end = "2020-07-31"
-  description = """
-
-  - Transcribed interviews of Emory students, staff, and other members of the Emory community that will be preserved in Emory University’s Stuart A. Rose Manuscript, Archives, and Rare Book Library
-  - Promoted and educated the Emory community on the mission and purpose of the Emory Oral History Project through tabling and class talks
-
   """
 
 [[experience]]

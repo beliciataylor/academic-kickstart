@@ -39,18 +39,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:belicia.taylor@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/beliciataylor
-- icon: linkedin
-  icon_pack: fab
-  link: https://linkedin.com/in/beliciarodriguez
-- icon: medium
-  icon_pack: fab
-  link: https://medium.com/@beliciataylor
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/beliciataylor
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/@beliciataylor
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/beliciarodriguez
+- icon: github
+  icon_pack: fab
+  link: https://github.com/beliciataylor
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -68,8 +68,8 @@ user_groups:
 - []
 ---
 
-I am a Senior Research Analyst at the Federal Reserve Bank of New York for Microeconomics (Research & Statistics) and Community Development (Outreach & Education).
+I am a Senior Research Analyst at the Federal Reserve Bank of New York for Microeconomic Studies (Research & Statistics) and Community Development (Outreach & Education).
 
-I've recently graduated with a BA in Economics and Mathematics (with an English minor) from Emory University, where I've been a research assistant in the Emory Economics department. Most notably, through Emory's Summer Research Program, I collaborated on a project that analyzed co-authorship networks with traditional social network methods and natural language processing.
+I graduated with a BA in Economics and Mathematics (with an English minor) from Emory University, where I've been a research assistant in the Emory Economics department. Most notably, through Emory's Summer Research Program, I collaborated on a project that analyzed co-authorship networks with traditional social network methods and natural language processing.
 
 I am very interested in Microeconomics and Machine Learning, and I plan on pursuing a PhD in Economics. During my spare time, I can be found knitting a new pattern, reading a book from my growing to-reads list, or working on my blog.

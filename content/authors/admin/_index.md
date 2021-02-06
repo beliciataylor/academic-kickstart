@@ -20,16 +20,16 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ""
 
-interests:
-  - Microeconomics
-  - Machine Learning
-  - Natural Language Processing
+#interests:
+#  - Microeconomics
+#  - Machine Learning
+#  - Natural Language Processing
 
-education:
-  courses:
-  - course: BA in Economics & Mathematics, English Minor
-    institution: Emory University
-    year: Aug 2017 - Dec 2020
+#education:
+#  courses:
+#  - course: BA in Economics & Mathematics, English Minor
+#    institution: Emory University
+#    year: Aug 2017 - Dec 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -54,9 +54,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: resume/cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: resume/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,10 +68,8 @@ user_groups:
 - []
 ---
 
-I am a Senior Research Analyst at the New York Fed in Microeconomics Research and Community Development.
+I am a Senior Research Analyst at the Federal Reserve Bank of New York for Microeconomics (Research & Statistics) and Community Development (Outreach & Education).
 
-I've recently graduated with a BA in Economics and Mathematics from Emory University, where I've been a research assistant in the Emory Economics department. Most notably, through Emory's Summer Research Program, I collaborated on a project that analyzed co-authorship networks with traditional social network methods and natural language processing.
+I've recently graduated with a BA in Economics and Mathematics (with an English minor) from Emory University, where I've been a research assistant in the Emory Economics department. Most notably, through Emory's Summer Research Program, I collaborated on a project that analyzed co-authorship networks with traditional social network methods and natural language processing.
 
-I am very interested in a research career, and I plan on pursuing a PhD in Economics. During my spare time, I can be found knitting a new pattern, reading a book from my growing to-reads list, or working on my data science blog.
-
-_The views and findings expressed here are those of the author's and do not necessarily reflect the views of the Federal Reserve Bank of New York or the Federal Reserve System._
+I am very interested in Microeconomics and Machine Learning, and I plan on pursuing a PhD in Economics. During my spare time, I can be found knitting a new pattern, reading a book from my growing to-reads list, or working on my blog.

@@ -19,55 +19,67 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = ""
+  description = """
+
+  I have experience conducting network analysis using NetworkX package, Natural Language Processing using Natural Language Toolkit (NLTK) and SpaCy, and Machine Learning using Scikit-Learn and TensorFlow.
+
+  """
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = ""
+  description = """
 
-[[feature]]
-  icon = "java"
-  icon_pack = "fab"
-  name = "Java"
-  description = ""
+  I've completed econometrics coursework at Emory where I've used R and R Markdown to conduct different analysis such as OLS, Ridge, Lasso, and Elastic Net regression analysis.
+
+  """
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = ""
+  description = """
+
+  I self-studied and used PostgreSQL as an RA working on co-authorship networks to subset our project's daa and combine tables from different datasets. I can also connect to a PostgreSQL database using Python.
+
+  """
+
+#[[feature]]
+#  icon = "java"
+#  icon_pack = "fab"
+#  name = "Java"
+#  description = ""
 
 [[feature]]
   icon = "cloud"
   icon_pack = "fas"
   name = "Cloud Computing"
-  description = "Azure & AWS"
+  description = """
+
+  I have experience creating a PostgreSQL server and database using AWS EC2 instance. I've also documented how to create the PostgreSQL server on GitBook, which you can access [here](https://aws-postgresql-docs.beliciarodriguez.com/).
+
+  """
 
 [[feature]]
   icon = "overleaf"
   icon_pack = "ai"
   name = "LaTeX"
-  description = ""
+  description = """
+
+  I used LaTeX to type my upper-level, proof-based math courses. I created my [resume](cv.pdf) along with my [undergraduate research poster](https://beliciarodriguez.com/project/sure-poster/sure-poster.jpg) using LaTeX. I can also create slides using Beamer.
+
+  """
 
 [[feature]]
   icon = "terminal"
   icon_pack = "fas"
   name = "Shell"
-  description = ""
+  description = """
 
-[[feature]]
-  icon = "git"
-  icon_pack = "fab"
-  name = "Git"
-  description = ""
+  I am comfortable using the command line to run programming scripts and connect to virtual machines.
 
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = ""  
+  """
 
 
 # Uncomment to use emoji icons.

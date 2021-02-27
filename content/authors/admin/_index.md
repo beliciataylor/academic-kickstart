@@ -72,4 +72,4 @@ I am a Senior Research Analyst at the Federal Reserve Bank of New York for Micro
 
 I graduated with a BA in Economics and Mathematics (with an English minor) from Emory University, where I've been a research assistant in the Emory Economics department. Most notably, through Emory's Summer Research Program, I collaborated on a project that analyzed co-authorship networks with traditional social network methods and natural language processing.
 
-I am very interested in Microeconomics and Machine Learning, and I plan on pursuing a PhD in Economics. During my spare time, I can be found knitting a new pattern, reading a book from my growing to-reads list, or working on my blog.
+I am very interested in Microeconomics and Machine Learning, and I plan on pursuing a PhD in Economics. During my spare time, I can be found reading a book from my growing to-reads list, or I'm expanding my data science toolkit by self-studying free materials online or coding little projects.

@@ -1,11 +1,8 @@
 ---
 title: Pregnancy Habits and Child Birth Weight
-summary: Econometrics Course Final Project
-authors:
-- admin
+summary: Econometrics course final project
 tags:
 - Undergraduate
-- Featured
 categories:
 - Undergraduate
 date: "2019-12-06"

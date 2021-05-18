@@ -1,9 +1,6 @@
 ---
-aliases: []
 title: 'The Rise of Self-Reliant Aid Initiatives in Response to the Post-Cold War Refugee Crises'
 summary: 3-page economics writing sample from undergraduate independent study research paper
-authors:
-- admin
 tags:
 - Undergraduate
 categories:

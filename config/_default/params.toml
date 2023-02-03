@@ -9,7 +9,8 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "Mine"
+#theme = "Mine"
+theme = "Rose"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -81,7 +82,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "belicia.taylor@gmail.com"
+email = "belicia.rodriguez@outlook.com"
 phone = ""
 
 # Address

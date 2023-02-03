@@ -3,7 +3,7 @@ aliases: []
 title: AWS EC2 PostgreSQL Server Documentation
 summary: Step-by-step explanations, rationale, and videos on how to design a PostgreSQL server using AWS EC2
 tags:
-- Documentation
+- Guides
 date: "2021-01-13"
 authors:
 - admin

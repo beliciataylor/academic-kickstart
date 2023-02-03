@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Featured Projects"
+title = "Projects"
 subtitle = ""
 
 [content]
@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "Featured"
+    tag = ""
     category = ""
     publication_type = ""
     author = ""
@@ -34,7 +34,7 @@ subtitle = ""
   [content.archive]
     enable = true
     text = "See all projects"
-    link = "projects/"
+    link = "portfolio/"
 
 [design]
   # Toggle between the various page layout types.

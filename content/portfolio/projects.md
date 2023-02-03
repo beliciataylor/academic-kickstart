@@ -26,16 +26,17 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Documentation"
-    tag = "Documentation"
+    name = "Research"
+    tag = "Research"
 
   [[content.filter_button]]
-    name = "Repositories"
-    tag = "Repositories"
-
+    name = "Guides"
+    tag = "Guides"
+  
   [[content.filter_button]]
-    name = "Undergraduate"
-    tag = "Undergraduate"
+    name = "Reports"
+    tag = "Reports"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -46,7 +47,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Belicia Taylor Rodriguez
+title: Belicia Rodriguez
 
 # Username (this should match the folder name)
 authors:
@@ -38,7 +38,7 @@ bio: ""
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:belicia.taylor@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:belicia.rodriguez@outlook.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/beliciataylor
@@ -68,8 +68,8 @@ user_groups:
 - []
 ---
 
-I am a Senior Research Analyst at the Federal Reserve Bank of New York for Microeconomic Studies (Research & Statistics) and Community Development (Outreach & Education).
+I'm Belicia Rodriguez, and I'm a data analyst at the Federal Reserve Bank of New York in the Household and Public Policy Research group and Community Development Outreach group. In my current role, I've worked with a multitude of big datasets to contribute to academic research and policy briefs on household and consumer finance, the U.S. housing market, credit access, chronic health conditions, climate risk, internet connectivity, and affordable housing. Some of my everyday tasks include pulling data using SQL, data processing with STATA and R, creating maps and other visualizations, and communicating findings to stakeholders.  
 
-I graduated with a BA in Economics and Mathematics (and an English minor) from Emory University, where I've been a research assistant in the Emory Economics department. Through Emory's Summer Research Program, I collaborated on a project that analyzed co-authorship networks with traditional social network methods and natural language processing.
+I graduated with a BA in Economics and Mathematics (and an English minor) from Emory University in December 2020. As an undergraduate, I assisted with projects where I've created social networks from web-scraped text data, utilized natural language processing in Python, and cleaned and analyzed survey data. 
 
-I am very interested in Microeconomics and Data Science, and I plan on pursuing a PhD in Economics. During my spare time, I can be found reading a book from my growing to-reads list, or I'm expanding my data science toolkit.
+My experiences have made me a detail-oriented data analyst, highly skilled problem solver, and adaptable to working across different teams and communicating analytical findings to internal and external stakeholders. During my spare time, I can be found reading a mystery novel or teaching myself another language (and yes, this means either a spoken or programming language!).

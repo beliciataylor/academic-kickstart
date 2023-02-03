@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guides | Belicia Rodriguez</title>
+    <link>https://beliciataylor.github.io/tag/guides/</link>
+      <atom:link href="https://beliciataylor.github.io/tag/guides/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guides</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>The views and findings expressed here are those of the author’s and do not necessarily reflect the views of the Federal Reserve Bank of New York or the Federal Reserve System.</copyright><lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://beliciataylor.github.io/images/icon_hu9c88287d94b818ddfa3c248611148a90_23006_512x512_fill_lanczos_center_3.png</url>
+      <title>Guides</title>
+      <link>https://beliciataylor.github.io/tag/guides/</link>
+    </image>
+    
+    <item>
+      <title>AWS EC2 PostgreSQL Server Documentation</title>
+      <link>https://beliciataylor.github.io/project/aws-ec2-postgresql-server/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/project/aws-ec2-postgresql-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Git &amp; GitHub Documentation</title>
+      <link>https://beliciataylor.github.io/project/github-worksheet/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/project/github-worksheet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

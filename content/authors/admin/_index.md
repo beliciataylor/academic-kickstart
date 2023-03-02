@@ -72,4 +72,4 @@ I'm Belicia Rodriguez, and I'm a data analyst at the Federal Reserve Bank of New
 
 I graduated with a BA in Economics and Mathematics (and an English minor) from Emory University in December 2020. As an undergraduate, I assisted with projects where I've created social networks from web-scraped text data, utilized natural language processing in Python, and cleaned and analyzed survey data. 
 
-My experiences have made me a detail-oriented data analyst, highly skilled problem solver, and adaptable to working across different teams and communicating analytical findings to internal and external stakeholders. During my spare time, I can be found reading a mystery novel or teaching myself another language (and yes, this means either a spoken or programming language!).
+My experiences have made me a detail-oriented data analyst, highly skilled problem solver, and adaptable to working across different teams and communicating analytical findings to internal and external stakeholders. During my spare time, I can be found reading mystery or teaching myself another language (and yes, this means either a spoken or programming language!).

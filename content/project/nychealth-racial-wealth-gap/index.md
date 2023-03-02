@@ -1,5 +1,5 @@
 ---
-title: Assessing the Racial Wealth Gap and Implications for Health Equity
+title: Analyzing the Racial Wealth Gap and Implications for Health Equity
 summary: NYC Department of Health and Mental Hygiene (Contributor)
 tags:
 - Reports

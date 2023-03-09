@@ -28,15 +28,18 @@ subtitle = ""
   [[content.filter_button]]
     name = "Research"
     tag = "Research"
-
-  [[content.filter_button]]
-    name = "Guides"
-    tag = "Guides"
   
   [[content.filter_button]]
     name = "Reports"
     tag = "Reports"
 
+[[content.filter_button]]
+    name = "Contributor"
+    tag = "Contributor"
+
+[[content.filter_button]]
+    name = "Guides"
+    tag = "Guides"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

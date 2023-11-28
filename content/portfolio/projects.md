@@ -26,16 +26,12 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Research"
-    tag = "Research"
+    name = "Emory"
+    tag = "Undergraduate"
   
   [[content.filter_button]]
-    name = "Reports"
-    tag = "Reports"
-
-[[content.filter_button]]
-    name = "Contributor"
-    tag = "Contributor"
+    name = "New York Fed"
+    tag = "New York Fed"
 
 [[content.filter_button]]
     name = "Guides"

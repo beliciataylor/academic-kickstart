@@ -1,8 +1,8 @@
 ---
-title: Does a Rise in Housing Prices Suggest a Housing Bubble?
+title: Dose the Rise in Housing Prices Suggest a Housing Bubble?
 summary: New York Fed Liberty Street Economics post
 tags:
-- Reports
+- New York Fed
 date: "2021-09-08"
 
 # Optional external URL for project (replaces project detail page).

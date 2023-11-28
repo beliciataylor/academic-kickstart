@@ -2,7 +2,7 @@
 title: The State of Low Income America
 summary: New York Fed Research and Community Development joint report
 tags:
-- Reports
+- New York Fed
 date: "2022-03-01"
 
 # Optional external URL for project (replaces project detail page).

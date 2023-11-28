@@ -1,8 +1,8 @@
 ---
-title: Alternative Investments in Community Development -- A Case Study of Managers of Multifamily Affordable Housing Private Investment Vehicles
+title: Alternative Investments in Community Development
 summary: New York Fed Community Development Report
 tags:
-- Contributor
+- New York Fed
 date: "2023-03-06"
 
 # Optional external URL for project (replaces project detail page).

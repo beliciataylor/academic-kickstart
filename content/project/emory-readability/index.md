@@ -1,6 +1,6 @@
 ---
 title: 'Abstract Readability: Evidence from Top-5 Economics Journals'
-summary: Working paper
+summary: Forthcoming in _Economics Letters_
 date: "2022-11-27"
 tags:
 - Undergraduate

@@ -1,5 +1,5 @@
 ---
-title: The State of Low Income America
+title: The State of Low Income America -- Credit Access & Debt Repayment
 summary: New York Fed Research and Community Development joint report
 tags:
 - New York Fed

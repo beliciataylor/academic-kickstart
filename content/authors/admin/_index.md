@@ -10,26 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role:
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name:
+- name: Duke University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
 
-#interests:
-#  - Microeconomics
-#  - Machine Learning
-#  - Natural Language Processing
+interests:
+  - Housing & Real Estate
+  - Urban Economics
+  - Public Policy
 
-#education:
-#  courses:
-#  - course: BA in Economics & Mathematics, English Minor
-#    institution: Emory University
-#    year: Aug 2017 - Dec 2020
+education:
+  courses:
+  - course: PhD in Economics
+    institution: Duke University
+    year: 2024-present
+  - course: BA in Economics & Mathematics
+    institution: Emory University
+    year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,12 +42,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:belicia.rodriguez@outlook.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/beliciataylor
-- icon: medium
-  icon_pack: fab
-  link: https://medium.com/@beliciataylor
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/beliciataylor
+#- icon: medium
+#  icon_pack: fab
+#  link: https://medium.com/@beliciataylor
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/beliciarodriguez
@@ -67,9 +70,7 @@ user_groups:
 - []
 - []
 ---
+I am an Economics PhD student at Duke University. Previously, I was an RA at the Federal Reserve Bank of New York, where I contributed to academic research and policy briefs on household and consumer finance, the U.S. housing market, climate risk, chronic health conditions, and internet connectivity. My current interest are in housing and public policy.
 
-I'm Belicia Rodriguez, and I'm a research and data analyst at the Federal Reserve Bank of New York, specifically the Household and Public Policy Research group and Community Development Outreach group. I've contributed to academic research and policy briefs on household and consumer finance, the U.S. housing market, climate risk, chronic health conditions, and internet connectivity. Some of my skills include pulling data using SQL, data processing with STATA and R, creating maps and other visualizations, and communicating findings to stakeholders. 
 
-I graduated with a BA in Economics and Mathematics (and an English minor) from Emory University. As an undergraduate research assistant, I've created social networks from web-scraped text data, utilized natural language processing in Python, and cleaned and analyzed survey data. 
 
-I am a detail-oriented, highly skilled problem solver, and adaptable to working across different teams and communicating analytical findings to internal and external stakeholders. In my spare time, I can be found reading or teaching myself another language (and yes, this means either a spoken or programming language!).

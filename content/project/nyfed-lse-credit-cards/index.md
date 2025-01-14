@@ -1,6 +1,6 @@
 ---
 title: Credit Card Delinquencies Continue to Rise -- Who Is Missing Payments?
-summary: New York Fed Liberty Street Economics post
+summary: _New York Fed Liberty Street Economics_ (Nov 2023). This post looks at which groups have fallen behind on debt payments and discusses whether rising delinquencies are concentrated amongst certain groups or broader based.
 tags:
 - New York Fed
 date: "2023-11-07"

@@ -5,12 +5,28 @@
     <link>https://beliciataylor.github.io/project/</link>
       <atom:link href="https://beliciataylor.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>The views and findings expressed here are those of the author’s and do not necessarily reflect the views of the Federal Reserve Bank of New York or the Federal Reserve System.</copyright><lastBuildDate>Thu, 18 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://beliciataylor.github.io/images/icon_hu9c88287d94b818ddfa3c248611148a90_23006_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://beliciataylor.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>The Financial Consequences of Undiagnosed Memory Disorders</title>
+      <link>https://beliciataylor.github.io/project/nyfed-alzheimers/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/project/nyfed-alzheimers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract Readability: Evidence from Top-5 Economics Journals</title>
+      <link>https://beliciataylor.github.io/project/emory-readability/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/project/emory-readability/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The State of Low Income America -- Credit Access &amp; Housing</title>
@@ -21,50 +37,10 @@
     </item>
     
     <item>
-      <title>Abstract Readability: Evidence from Top-5 Economics Journals</title>
-      <link>https://beliciataylor.github.io/project/emory-readability/</link>
-      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://beliciataylor.github.io/project/emory-readability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Credit Card Delinquencies Continue to Rise -- Who Is Missing Payments?</title>
       <link>https://beliciataylor.github.io/project/nyfed-lse-credit-cards/</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://beliciataylor.github.io/project/nyfed-lse-credit-cards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Broadband Access, Speed and Affordability Among Covered Populations</title>
-      <link>https://beliciataylor.github.io/project/nyfed-digital-equity2/</link>
-      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://beliciataylor.github.io/project/nyfed-digital-equity2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Digital Equity in the U.S. Northeast and Islands</title>
-      <link>https://beliciataylor.github.io/project/nyfed-digital-equity/</link>
-      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://beliciataylor.github.io/project/nyfed-digital-equity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alternative Investments in Community Development</title>
-      <link>https://beliciataylor.github.io/project/nyfed-affordable-housing/</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://beliciataylor.github.io/project/nyfed-affordable-housing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analyzing the Racial Wealth Gap and Implications for Health Equity</title>
-      <link>https://beliciataylor.github.io/project/nychealth-racial-wealth-gap/</link>
-      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://beliciataylor.github.io/project/nychealth-racial-wealth-gap/</guid>
       <description></description>
     </item>
     
@@ -89,46 +65,6 @@
       <link>https://beliciataylor.github.io/project/nyfed-lse-mortgages/</link>
       <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://beliciataylor.github.io/project/nyfed-lse-mortgages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AWS EC2 PostgreSQL Server Documentation</title>
-      <link>https://beliciataylor.github.io/project/aws-ec2-postgresql-server/</link>
-      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://beliciataylor.github.io/project/aws-ec2-postgresql-server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SURE Symposium Poster</title>
-      <link>https://beliciataylor.github.io/project/emory-sure-poster/</link>
-      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://beliciataylor.github.io/project/emory-sure-poster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pregnancy Habits and Child Birth Weight</title>
-      <link>https://beliciataylor.github.io/project/emory-pregnancy-habits/</link>
-      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://beliciataylor.github.io/project/emory-pregnancy-habits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Intro to Git &amp; GitHub Documentation</title>
-      <link>https://beliciataylor.github.io/project/github-worksheet/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://beliciataylor.github.io/project/github-worksheet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emory Wheel College Newspaper Articles</title>
-      <link>https://beliciataylor.github.io/project/emory-newspaper/</link>
-      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://beliciataylor.github.io/project/emory-newspaper/</guid>
       <description></description>
     </item>
     
